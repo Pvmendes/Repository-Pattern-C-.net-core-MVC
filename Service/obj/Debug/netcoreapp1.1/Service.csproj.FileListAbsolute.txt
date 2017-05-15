@@ -1,0 +1,11 @@
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Service.deps.json
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Service.dll
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Service.pdb
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Domain.dll
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Repository.dll
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Domain.pdb
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\bin\Debug\netcoreapp1.1\Repository.pdb
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\obj\Debug\netcoreapp1.1\Service.csprojResolveAssemblyReference.cache
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\obj\Debug\netcoreapp1.1\Service.AssemblyInfo.cs
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\obj\Debug\netcoreapp1.1\Service.dll
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Service\obj\Debug\netcoreapp1.1\Service.pdb

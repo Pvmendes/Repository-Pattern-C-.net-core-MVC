@@ -1,0 +1,7 @@
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\bin\Debug\netcoreapp1.1\Domain.deps.json
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\bin\Debug\netcoreapp1.1\Domain.dll
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\bin\Debug\netcoreapp1.1\Domain.pdb
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\obj\Debug\netcoreapp1.1\Domain.csprojResolveAssemblyReference.cache
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\obj\Debug\netcoreapp1.1\Domain.AssemblyInfo.cs
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\obj\Debug\netcoreapp1.1\Domain.dll
+C:\Users\paulo.mendes\documents\visual studio 2017\Projects\Repository\Domain\obj\Debug\netcoreapp1.1\Domain.pdb
